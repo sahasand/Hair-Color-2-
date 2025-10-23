@@ -1,0 +1,5 @@
+{
+  "name": "Hair Color",
+  "description": "An elegant, mobile-first application that uses AI to suggest complementary hair colors. Users can upload a photo, receive AI-powered color recommendations, and preview the new look in real-time with a sophisticated and minimalist interface.",
+  "requestFramePermissions": []
+}
